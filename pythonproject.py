@@ -30,13 +30,6 @@ snack = {
 'lean_protein':['fish', 'chicken', 'shellfish', 'nuts', 'turkey', 'tofu', 'beans']
 }
 #This function takes the string 'meal' as a variable and will return a single meal for either breakfast, lunch, dinner, and snacks.
-def meal_plan(meal):
-    breakfast = ''
-    lunch = ''
-    dinner = ''
-    snack = ''
-    for ingredients in meal:
-        random.choice(ingredients)
 def meal_plan(ingredients):
     breakfast_dict = {'[]'}
     lunch_dict = {'[]'}
