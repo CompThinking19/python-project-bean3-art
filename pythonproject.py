@@ -37,3 +37,16 @@ def meal_plan(meal):
     snack = ''
     for ingredients in meal:
         random.choice(ingredients)
+def meal_plan(ingredients):
+    breakfast_dict = {'[]'}
+    lunch_dict = {'[]'}
+    dinner_dict = {'[]'}
+    snack_dict = {'[]'}
+    for breakfast_dict in random.sample(breakfast_dict.items(),k=5):
+        print breakfast_dict
+    for lunch_dict in random.sample(lunch_dict.items(),k=5):
+        print lunch_dict
+    for dinner_dict in random.sample(dinner_dict.items(),k=5):
+        print dinner_dict
+    for snack_dict in random.sample(snack_dict.items(),k=5):
+        print snack_dict
