@@ -35,8 +35,6 @@ def meal_plan(meal):
     lunch = ''
     dinner = ''
     snack = ''
-    for ingredients in meal:
-        random.choice(ingredients)
 def meal_plan(ingredients):
     breakfast_dict = {'[]'}
     lunch_dict = {'[]'}
