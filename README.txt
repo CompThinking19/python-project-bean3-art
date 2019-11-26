@@ -17,4 +17,4 @@ trouble because I was looking up how to take random items from a dictionary. Wit
 your help, I learned I was taking it from a list. Once that was done, the rest
 of the code was a little easier to figure out. My code is definitely not as
 complicated as some others might be, but it is doing what I want it to which I
-am very happy about.
+am very happy about. 
