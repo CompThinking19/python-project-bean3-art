@@ -1,0 +1,11 @@
+Comments
+You have good, descriptive comments that introduce both the program itself and the function. You do well at giving the "what", and you have a start toward addressing the "why".
+
+Overall code quality
+Though, as you say in your README, the code is not terribly complex, what's here is actually quite flexible: rather than a unique function for each meal, you abstracted your data and your code and created a function that can handle any of the meal data you put through it.
+
+Ambition
+I enjoyed your README and the background behind why this project was important to you. I also think that it was a great way to think about the way that your interests can be expressed in code: such meal planners exist online, and I would imagine that what you've done here is in fact a miniature version or small start toward one of those.
+
+Aesthetics
+Your code returned the content of one meal, which is great. I think some of the original ambitions for the piece could have been more fully realized, like the idea of including some user input. As it is, the output of the program is entirely fixed unless the code itself is changed.
